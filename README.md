@@ -28,6 +28,8 @@ ___My Approach___:
 
 ___output of task___
 ![task_1(1)](https://github.com/user-attachments/assets/e298c675-4ff7-4660-8dd0-3c610ee42b7d)
+![task_1(2)](https://github.com/user-attachments/assets/515ebbf6-ef8d-45e9-bd80-4e8609170bd8)
+
 
 
 
