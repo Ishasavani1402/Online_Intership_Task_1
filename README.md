@@ -2,7 +2,7 @@
 
 #Java Program for file handling_________
 
-__company__ : CODRTECH IT SOLUTIONS
+__company__ : CODTECH IT SOLUTIONS
 
 __Name___ : Isha Savani
 
@@ -27,8 +27,8 @@ ___My Approach___:
 -> also in this i use exception handling like IO exception . 
 
 ___output of task___
-![task_1(1)](![task_1(2)](https://github.com/user-attachments/assets/30ed9d8c-e5d0-4574-b478-97b99064789d)
-![task_1(2)](https://github.com/user-attachments/assets/dba3e23d-acb9-404a-b1e3-22a16244989b)
+![task_1(1)](https://github.com/user-attachments/assets/e298c675-4ff7-4660-8dd0-3c610ee42b7d)
+
 
 
 
